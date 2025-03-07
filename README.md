@@ -1,4 +1,4 @@
-# RTDE (Real-Time Data Exchange) Project
+# RTDE Project
 
 This repository contains code for **Official implementation** of the following paper:
 
